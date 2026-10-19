@@ -23,7 +23,7 @@
 ## Awards & Publications
 
 - **KSC2025 (한국정보과학회) 학부생 논문 경진대회 장려상** — MIMIC-IV 임상노트 전처리 비교 연구,포스터 발표 (2025.12, 여수)
-- **2026 AI소프트웨어공모전 우수상** — PromptGuardLite (샘플셋/평가 담당)
+- **2026 AI소프트웨어공모전 우수상** — PromptGuardLite 
 - **2025 ICT프로젝트 챌린지 (숭실대 × 렛유인에듀) 최우수상** — RAG 기반 귀농 정책 플랫폼 '물어보농' (RAG 검색 파이프라인, 농Bti 기획·개발) (2025.08.30)
 - **2024 AI반도체 아이디어/설계 경진대회 우수상 (숭실대학교 총장 명의)** — LSTM 기반 칩렛 열맵 예측 (팀장) (2025.01.23)
 - USC Viterbi IMSC SW Pioneer Program 2026 수료 (AI · Data Science) 및 IMSC Hackathon 참가 — TranslEAT (2026.07)
